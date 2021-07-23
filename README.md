@@ -4,4 +4,4 @@ he proposed to make some apps UI which i decided to integrate a mobile developpe
 The first one of the serie.
 Be connected to see more integrations.
 
-![alt text](https://github.com/asiedukev/CallApp/blob/master/Github.png?raw=true)
+![alt text](https://github.com/asiedu-kev/CallApp/blob/master/Github.png?raw=true)
